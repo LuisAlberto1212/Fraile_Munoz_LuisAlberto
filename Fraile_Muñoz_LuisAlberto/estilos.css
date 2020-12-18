@@ -1,0 +1,186 @@
+body 
+{
+    max-width: 1200px;
+    margin: 0 auto;
+    color: #AAAAAA;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 1.1em;
+    
+}
+
+header 
+{
+    height: 100px;
+    overflow: hidden;
+}
+header h1 img 
+{
+    float: left;
+    width: 180px;
+    margin-right: 2em;
+}
+
+nav ul li 
+{
+    float: left;
+    margin: 35px 0;
+    margin-left: 45px;
+    padding: 10px;
+    text-transform: uppercase;
+    text-decoration: underline;
+    color: #AAAAAA;
+    font-size: 0.8em;
+}
+
+li.inicio 
+{
+    background-color: rgb(216, 229, 240);
+    color: #FFFFFF;
+    border-radius: 25px;
+}
+
+.logo_largo 
+{
+    width: 100%;
+}
+
+h2 
+{
+    text-align: center;
+    clear: both;
+    margin-top: 3em;
+    text-transform: uppercase;
+    font-size: 1.75em;
+    color: #777777;
+}
+
+h2.texto_importancia
+{
+    text-align: center;
+    margin-bottom: 1.5em;
+}
+
+p 
+{
+    line-height: 3em;
+}
+.textoTienda 
+{    
+    float: left;
+    width: 55%;
+}
+
+.descripcionTienda 
+{
+    clear: both;
+    margin-top: 3em;
+}
+.descripcionTienda img 
+{
+    float: left;
+    width: 80px;
+    margin: 0 30px 0 0;
+}
+
+.descripcionTienda p 
+{
+    line-height: 2em;
+}
+
+.fotoFruteria 
+{
+    float:right;
+    width: 500px;
+    margin-top: 150px;
+}
+
+
+footer 
+{
+    width: 100%;
+    height: 500px;
+
+    
+    background-color: #EEEEEE;
+    margin-top: 3em;
+}
+h4
+{
+    font-size: 30px;
+}
+
+
+h2.textoTienda
+{
+    text-align: center;
+}
+hr
+{
+    color: #AAAAAA;
+}
+.fotominimarketveronica
+{
+    position: absolute;
+    top: 865px;
+    width: 50%;
+    height: 47%;
+    margin-left: 10em;
+    border-radius: 25px;
+}
+.tulipan
+{
+    position: absolute;
+    top: 450px;
+    width: 50%;
+    height: 47%;
+    margin-left: 10em;
+    border-radius: 25px;
+}
+.supernatural
+{
+    position: absolute;
+    top: 1300px;
+    width: 50%;
+    height: 47%;
+    margin-left: 10em;
+    border-radius: 25px;
+}
+.tablaAlimentacion
+{
+    width: 100%;  
+    height: 100%;
+    align-content: center;
+}
+.fotoimpacto
+{
+    position: absolute;
+    top: 450px;
+    width: 50%;
+    height: 47%;
+    margin-left: 10em;
+    border-radius: 25px;
+}
+.fotoanclas
+{
+    position: absolute;
+    top: 865px;
+    width: 50%;
+    height: 47%;
+    margin-left: 10em;
+    border-radius: 25px;
+}
+.fotoflandes
+{
+    position: absolute;
+    top: 450px;
+    width: 50%;
+    height: 47%;
+    margin-left: 10em;
+    border-radius: 25px;
+}
+.iconoformulario
+{
+    width: 32px;
+    height: 30px;
+    vertical-align: middle;
+}
